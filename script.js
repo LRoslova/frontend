@@ -1,1 +1,2 @@
-alert( 'Я JavaScript!' );
+let result = prompt( 'Как тебя зовут?');
+alert(result);
